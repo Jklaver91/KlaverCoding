@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/KlaverCoding/static/css/main.c2cab247.css",
+    "main.js": "/KlaverCoding/static/js/main.c0bf2961.js",
+    "static/media/cuttingEdge.png": "/KlaverCoding/static/media/cuttingEdge.46fad4e2349a04f231f5.png",
+    "static/media/code.jpg": "/KlaverCoding/static/media/code.85029e0fd71b225a9a66.jpg",
+    "static/media/radiantCauldron.png": "/KlaverCoding/static/media/radiantCauldron.ae4268cbadaa00d8a648.png",
+    "static/media/streamSearch.png": "/KlaverCoding/static/media/streamSearch.6d940f0944ec6094f9fd.png",
+    "static/media/Justin200.png": "/KlaverCoding/static/media/Justin200.2c3f939478c0312adea5.png",
+    "static/media/qcFoodies.png": "/KlaverCoding/static/media/qcFoodies.e5ddf19245f3619cdcc6.png",
+    "index.html": "/KlaverCoding/index.html",
+    "main.c2cab247.css.map": "/KlaverCoding/static/css/main.c2cab247.css.map",
+    "main.c0bf2961.js.map": "/KlaverCoding/static/js/main.c0bf2961.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.c0bf2961.js"
+  ]
+}
